@@ -128,8 +128,6 @@ body {
     color: #333;
     margin: 15px 0 5px;
 }
-
-/* Subheading (title) */
 .profile-card h2 {
     font-size: 18px;
     color: #666;
@@ -150,13 +148,10 @@ body {
     border-top: 1px solid #ccc;
 }
 
-/* Section styling */
 .section {
     margin-top: 20px;
     text-align: left;
 }
-
-/* Section headings */
 .section h3 {
     margin-bottom: 5px;
     color: #222;
@@ -192,6 +187,7 @@ body {
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/e3a1a65d-cd99-476d-9c1f-a1d4ae2d1010)
 
 
 ## Result:

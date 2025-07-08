@@ -134,14 +134,11 @@ body {
     margin: 5px 0 15px;
 }
 
-/* Bio text */
 .profile-card p {
     font-size: 14px;
     color: #444;
     margin-top: 10px;
 }
-
-/* Section divider line */
 .profile-card hr {
     margin: 20px 0;
     border: none;

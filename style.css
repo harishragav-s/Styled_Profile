@@ -36,35 +36,25 @@ body {
     color: #333;
     margin: 15px 0 5px;
 }
-
-/* Subheading (title) */
 .profile-card h2 {
     font-size: 18px;
     color: #666;
     margin: 5px 0 15px;
 }
-
-/* Bio text */
 .profile-card p {
     font-size: 14px;
     color: #444;
     margin-top: 10px;
 }
-
-/* Section divider line */
 .profile-card hr {
     margin: 20px 0;
     border: none;
     border-top: 1px solid #ccc;
 }
-
-/* Section styling */
 .section {
     margin-top: 20px;
     text-align: left;
 }
-
-/* Section headings */
 .section h3 {
     margin-bottom: 5px;
     color: #222;
